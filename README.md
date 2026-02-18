@@ -24,7 +24,7 @@ Decentralization of the Human Mind
 
 — The Foundation of Autonomy Studies under AI Governance —
 
-公開時の一言 
+思想設計の背景
 
 私はこれまで、独りで思考のビルを建て続けてきた。 これは、その設計図を初めて世界と共有する試みである。 人生で最初で最後の、知の贈与になるかもしれない。 批判も、称賛も、感情としてはこの論理の前では無力である。 それを証明するのは、 私ではなく、この論理に触れた賢者諸氏である。
 
